@@ -1,0 +1,8 @@
+yt-dlp
+openai-whisper
+torch
+selenium
+webdriver-manager
+google-api-python-client
+tqdm
+youtube_transcript_api 

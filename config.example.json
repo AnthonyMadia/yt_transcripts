@@ -1,0 +1,6 @@
+{
+    "youtube_api_key": "YOUR_YOUTUBE_API_KEY_HERE",
+    "channel_url": "https://www.youtube.com/@ChannelName",
+    "playlist_keywords": ["keyword1", "keyword2", "keyword3"],
+    "whisper_model": "base"
+} 
