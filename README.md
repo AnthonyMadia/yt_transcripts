@@ -41,3 +41,19 @@ pip install -r requirements.txt
 
 1. Configure your settings in `config.json`
 2. Run the script:
+
+```bash
+python main.py
+```
+
+## Configuration
+
+Edit `config.json` with your settings:
+- `youtube_api_key`: Your YouTube Data API key
+- `channel_url`: URL of the YouTube channel to process
+- `playlist_keywords`: List of keywords to match playlists
+- `whisper_model`: Whisper model to use (tiny, base, small, medium, large)
+
+## License
+
+MIT License
